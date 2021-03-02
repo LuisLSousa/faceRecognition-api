@@ -5,7 +5,7 @@ See the project live at:
 https://proj-face-recognition.herokuapp.com/
 
 Frontend: React \
-Backend: Express.js \
+Backend: Node.js + Express.js \
 Database: PostgreSQL
 
 # Frontend available at
