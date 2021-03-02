@@ -1,6 +1,8 @@
 # faceRecogniton-api
 The backend for the faceRecognition project.
 
+Backend node server built using Express.js. Implemented user-registration and sign-in by connecting to an RDBMS built using PostgreSQL. Uses Clarifai FACE_DETECTION_MODEL API to detect faces in images.
+
 See the project live at:
 https://proj-face-recognition.herokuapp.com/
 
