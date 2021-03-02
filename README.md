@@ -10,4 +10,4 @@ Database: PostgreSQL
 
 # Frontend available at
 
-https://github.com/LuisLSousa/faceRecogniton
+https://github.com/LuisLSousa/faceRecognition
